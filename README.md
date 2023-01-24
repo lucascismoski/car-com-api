@@ -1,4 +1,4 @@
-# car-com-rent-api-jdbc
+# car-rent-com-api-jdbc
 
 create sequence xx_cars_s;
 
